@@ -1,0 +1,24 @@
+$date
+	Sat Oct 24 11:37:23 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module pija $end
+$var wire 1 ! En $end
+$var wire 1 " Load $end
+$var wire 1 # Pre $end
+$var reg 1 $ Out $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x$
+z#
+z"
+z!
+$end
+#15
